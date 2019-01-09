@@ -1,0 +1,6 @@
+# Ignore the following folders
+/node_modules/
+
+# Ignore the following files
+*.jpg
+*.png
